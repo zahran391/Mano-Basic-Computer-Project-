@@ -12,10 +12,12 @@ Control Unit: Structured the hardwired control logic and Sequence Counter (SC) t
 Memory Subunit: Integrated RAM modules and data routing using a shared internal Common Bus architecture.
 
 ****************************************************
+<img width="518" height="278" alt="image" src="https://github.com/user-attachments/assets/406edf18-c019-4d0d-8362-0eb17b6b48d2" />
 <img width="1600" height="821" alt="image" src="https://github.com/user-attachments/assets/97856ad1-e73a-449a-90b5-f04b9f8da69f" />
 <img width="1106" height="605" alt="لقطة شاشة 2026-09-16 181434" src="https://github.com/user-attachments/assets/08189cfc-7f2a-47d4-a019-d4bc5ea26f04" />
 <img width="1095" height="608" alt="لقطة شاشة 2026-09-16 181534" src="https://github.com/user-attachments/assets/9e0cb590-3da3-4387-965c-a79f89d704cb" />
 <img width="1113" height="635" alt="لقطة شاشة 2026-09-16 181606" src="https://github.com/user-attachments/assets/f0fb7172-7281-48ad-8820-7f083291f8c9" />
+
 
 
 <img width="1587" height="637" alt="image" src="https://github.com/user-attachments/assets/07ca9627-7268-42f5-a991-5ca0e593aa39" />
