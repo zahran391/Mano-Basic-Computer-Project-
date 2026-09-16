@@ -37,5 +37,13 @@ Memory Subunit: Integrated RAM modules and data routing using a shared internal 
 <img width="1127" height="772" alt="image" src="https://github.com/user-attachments/assets/c0ed6fd2-0544-45b8-b0d9-ceef74799525" />
 
 <img width="1467" height="758" alt="image" src="https://github.com/user-attachments/assets/8eeb91d1-be64-47c8-8119-e55328e6aa7a" />
+<img width="7296" height="5048" alt="image" src="https://github.com/user-attachments/assets/acd07322-9eec-4656-a3cd-4466005949bd" />
+<img width="10213" height="3648" alt="image" src="https://github.com/user-attachments/assets/48b4f7a6-2d45-44bd-b527-d814a917b9dc" />
+<img width="8183" height="5060" alt="image" src="https://github.com/user-attachments/assets/86ff70e7-91d3-4e75-9243-e1c9db7591e5" />
+
+
+
+
+
 
 
